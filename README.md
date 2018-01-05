@@ -6,6 +6,8 @@ O website foi desenvolvido utilizando ferramentas de workflow moderno como <b>Gu
 
 O modelo está hospedado no Githubt, sinta-se a vontade para visitá-lo e realizar melhorias através de pull request.
 
+<i>Modelo desenvolvido juntamente com o curso "Git a Modern Workflow - Brad Schiff".</i>
+
 
 
 
