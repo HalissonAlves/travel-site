@@ -1,12 +1,11 @@
-# travel-site
+# Template Website de Viagens
 
-A study project of Brad Schiff using some modern tools for web development.
+Website modelo para agência de viagens.
 
-Training course using Gulp, PostCSS, BEM, mixins, normalize.css, NPM, plugins and other tools.
+O website foi desenvolvido utilizando ferramentas de workflow moderno como <b>Gulp, PostCSS, BEM, mixins, normalize.css, NPM, plugins e outras ferramentas.</b>
 
-The objetive is finish a web site created for a Travel Company, based on the psd file provided by a professional designer of the agency.
+O modelo está hospedado no Githubt, sinta-se a vontade para visitá-lo e realizar melhorias através de pull request.
 
-### Content pertaining to Brad Schiff's course. Copying and distribution of for-profit content is expressly prohibited.
 
 
 
