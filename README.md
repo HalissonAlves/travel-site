@@ -1,13 +1,17 @@
-# Template Website de Viagens
+# Website Travel Template
 
-Website modelo para agência de viagens.
+## How to use?
+Clone the repo through:
+```
+git clone http://github.com/HalissonAlves/travel-site.git
+```
+Enter in the 'docs' folder and execute the index.html file.
 
-O website foi desenvolvido utilizando ferramentas de workflow moderno como <b>Gulp, PostCSS, BEM, mixins, normalize.css, NPM, plugins e outras ferramentas.</b>
+## What did I use?
 
-O modelo está hospedado no Githubt, sinta-se a vontade para visitá-lo e realizar melhorias através de pull request.
+The website was developed using modern workflow tools like <b>Gulp, BEM, PostCSS, mixins, normalize.css, npm, plugins and others.
+  
+The website is hosted in this link: [Travel Site](https://halissonalves.github.io/travel-site/) *Feel Free to Check*
 
-<i>Modelo desenvolvido juntamente com o curso "Git a Modern Workflow - Brad Schiff".</i>
-
-
-
+<i>The Website was developed using the course **Git a Modern Workflow - Brad Schiff**</i>
 
